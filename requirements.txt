@@ -1,0 +1,9 @@
+aiogram
+langchain
+langchain-openai
+langchain-experimental
+pandas
+matplotlib
+openpyxl
+python-dotenv
+tabulate
