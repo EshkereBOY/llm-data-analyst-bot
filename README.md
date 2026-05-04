@@ -43,8 +43,8 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/ваш_логин/название_репозитория.git
-   cd название_репозитория
+   git clone https://github.com/EshkereBOY/llm-data-analyst-bot
+   cd llm-data-analyst-bot
    ```
 
 2. **Установите зависимости:**
